@@ -70,19 +70,19 @@ const IndexPage = () => (
           <div className="row">
             <div className="col-4 col-12-mobile">
               <article className="item">
-                <a href="/#" className="image fit">
+                <a href="https://devto-vsolokha.netlify.app" className="image fit">
                   <img src={pic4} alt="Project 1" />
                 </a>
                 <header>
-                  <h3>Project 1: In Construction</h3>
+                  <h3>My DEV.to Blog Website built using Stackbit</h3>
                 </header>
               </article>
               <article className="item">
-                <a href="/#" className="image fit">
+                <a href="https://pick-name.netlify.app/" className="image fit">
                   <img src={pic5} alt="Project 2" />
                 </a>
                 <header>
-                  <h3>Project 2: In Construction</h3>
+                  <h3>Project 2: Pick-Name: Random Student Chooser</h3>
                 </header>
               </article>
             </div>
