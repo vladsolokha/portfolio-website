@@ -1,6 +1,6 @@
 # Welcome to Vlad Solokha's Website 
 
-# See the website live at https://vsolokha.netlify.app
+# See the website live at vladsolokha.com
 
 Built from Gatsby.js V2 starter template based on Prologue by HTML5 UP adapted from anubhavsrivastava
 
