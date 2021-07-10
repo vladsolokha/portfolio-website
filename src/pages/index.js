@@ -4,8 +4,8 @@ import Layout from '../components/Layout';
 import PageFooter from '../components/PageFooter';
 import SideBar from '../components/SideBar';
 import Footer from '../components/SideBar/Footer';
-import pic4 from '../assets/images/portfolio1.jpeg';
-import pic5 from '../assets/images/portfolio2.jpeg';
+import pic4 from '../assets/images/portfolio1.jpg';
+import pic5 from '../assets/images/portfolio2.jpg';
 import config from '../../config';
 import aboutMePic from '../assets/images/aboutMePic.png';
 import Scroll from '../components/Scroll';
@@ -55,7 +55,7 @@ const IndexPage = () => (
             Passionate about applying technology to make life easier, simpler,
             and more autonomous. Striving to build applications,
             user-interfaces, and websites to help companies grow. I am a
-            husband, father of 3 kids. I also have a passion for coffee and all
+            husband, father of 3 kids. I also love all things coffee and all
             things sweet.
           </p>
         </div>
