@@ -23,11 +23,6 @@ module.exports = {
       url: 'https://github.com/vladsolokha',
     },
     {
-      icon: 'fa-twitter',
-      name: 'Twitter',
-      url: 'https://twitter.com/SolokhaVlad',
-    },
-    {
       icon: 'fa-envelope-o',
       name: 'Email',
       url: 'mailto:vsolokha@gmail.com',

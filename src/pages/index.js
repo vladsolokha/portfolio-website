@@ -52,11 +52,18 @@ const IndexPage = () => (
           </a>
 
           <p>
-            Passionate about applying technology to make life easier, simpler,
-            and more autonomous. Striving to build applications,
-            user-interfaces, and websites to help companies grow. I am a
-            husband, father of 3 kids. I also love all things coffee and all
+            I love simple and innovative apps. I am passionate about technology 
+            that makes life easier, simpler, and gives you more time. 
+            Apps should build you up. I'm constantly learning how to 
+            build simpler, more responsive applications,
+            UIs, and websites to help companies grow. I am a
+            husband, father of 3. I also love all things coffee and all
             things sweet.
+
+            My backgound and degrees are in education and chemistry.
+            I am Belarussian and also speak Russian Fluently. 
+
+            See my LinkedIn profile for more information. 
           </p>
         </div>
       </section>
@@ -99,13 +106,13 @@ const IndexPage = () => (
           <p>
             Let's work together
             <br />
-            I am open to mentor
+            I am open to mentor and be mentored
             <br />
             Message me
           </p>
           <h6 className="message-me">
             <a href="https://linkedin.com/in/vlad-solokha"> LinkedIn </a>
-            <a href="https://twitter.com/SolokhaVlad"> Twitter </a>
+            <a href="https://github.com/vladsolokha"> GitHub </a>
             <a href="mailto:vsolokha@gmail.com"> Email </a>
           </h6>
 
