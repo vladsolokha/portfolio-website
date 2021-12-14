@@ -4,8 +4,8 @@ import Layout from '../components/Layout';
 import PageFooter from '../components/PageFooter';
 import SideBar from '../components/SideBar';
 import Footer from '../components/SideBar/Footer';
-import pic4 from '../assets/images/portfolio1.jpeg';
-import pic5 from '../assets/images/portfolio2.jpeg';
+import pic4 from '../assets/images/portfolio1.jpg';
+import pic5 from '../assets/images/portfolio2.jpg';
 import config from '../../config';
 import aboutMePic from '../assets/images/aboutMePic.png';
 import Scroll from '../components/Scroll';
@@ -52,11 +52,14 @@ const IndexPage = () => (
           </a>
 
           <p>
-            Passionate about applying technology to make life easier, simpler,
-            and more autonomous. Striving to build applications,
-            user-interfaces, and websites to help companies grow. I am a
-            husband, father of 3 kids. I also have a passion for coffee and all
+            I love simple and innovative apps. I am passionate about technology 
+            that makes life easier, simpler, and gives you more time. 
+            Apps should build you up. I'm constantly learning how to 
+            build simpler, more responsive applications,
+            UIs, and websites to help companies grow. I am a
+            husband, father of 3. I also love all things coffee and all
             things sweet.
+<<<<<<< HEAD
             <br />
             I am a self-taught, life-long learner and have numerous senior software engineering 
             friends that I enjoy receiving mentorship from. 
@@ -65,6 +68,13 @@ const IndexPage = () => (
             Every day I am expected to be able to communicate clearly (orally and in writing), 
             tell good stories, share knowledge, mentor people, and build relationships. 
             I am switching careers because I desire to grow in my knowledge of software development and be challenged.
+=======
+
+            My backgound and degrees are in education and chemistry.
+            I am Belarussian and also speak Russian Fluently. 
+
+            See my LinkedIn profile for more information. 
+>>>>>>> f29552a30b2c23ddff55256a9a95772b998473d9
           </p>
         </div>
       </section>
@@ -107,13 +117,13 @@ const IndexPage = () => (
           <p>
             Let's work together
             <br />
-            I am open to mentor
+            I am open to mentor and be mentored
             <br />
             Message me
           </p>
           <h6 className="message-me">
             <a href="https://linkedin.com/in/vlad-solokha"> LinkedIn </a>
-            <a href="https://twitter.com/SolokhaVlad"> Twitter </a>
+            <a href="https://github.com/vladsolokha"> GitHub </a>
             <a href="mailto:vsolokha@gmail.com"> Email </a>
           </h6>
 

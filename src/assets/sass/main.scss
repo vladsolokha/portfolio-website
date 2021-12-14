@@ -233,7 +233,7 @@
 	.container {
 		margin: auto auto;
 		max-width: 100%;
-		width: 1400px;
+		width: auto;
 
 		@include breakpoint('wide') {
 			width: 1200px;
@@ -524,6 +524,7 @@
 	.item {
 		box-shadow: 0 0.15em 0.25em 0 rgba(0, 0, 0, 0.05);
 		margin-bottom: 40px;
+
 
 		header {
 			background: #fff;
