@@ -57,6 +57,14 @@ const IndexPage = () => (
             user-interfaces, and websites to help companies grow. I am a
             husband, father of 3 kids. I also have a passion for coffee and all
             things sweet.
+            <br />
+            I am a self-taught, life-long learner and have numerous senior software engineering 
+            friends that I enjoy receiving mentorship from. 
+            My skills include 4+ years of teaching programming some of which include developing apps 
+            using MERN, vanilla HTML, CSS, JS, Git, and Python. Teaching involves a lot of project and people management. 
+            Every day I am expected to be able to communicate clearly (orally and in writing), 
+            tell good stories, share knowledge, mentor people, and build relationships. 
+            I am switching careers because I desire to grow in my knowledge of software development and be challenged.
           </p>
         </div>
       </section>
